@@ -1,0 +1,12 @@
+C:\Users\13146\Desktop\Testproject\HOT-2\JOHNBARADAHOT4CardStoreGUI\JOHNBARADAHOT4CardStoreGUI\bin\Debug\JOHNBARADAHOT4CardStoreGUI.exe.config
+C:\Users\13146\Desktop\Testproject\HOT-2\JOHNBARADAHOT4CardStoreGUI\JOHNBARADAHOT4CardStoreGUI\bin\Debug\JOHNBARADAHOT4CardStoreGUI.exe
+C:\Users\13146\Desktop\Testproject\HOT-2\JOHNBARADAHOT4CardStoreGUI\JOHNBARADAHOT4CardStoreGUI\bin\Debug\JOHNBARADAHOT4CardStoreGUI.pdb
+C:\Users\13146\Desktop\Testproject\HOT-2\JOHNBARADAHOT4CardStoreGUI\JOHNBARADAHOT4CardStoreGUI\obj\Debug\JOHNBARADAHOT4CardStoreGUI.csproj.AssemblyReference.cache
+C:\Users\13146\Desktop\Testproject\HOT-2\JOHNBARADAHOT4CardStoreGUI\JOHNBARADAHOT4CardStoreGUI\obj\Debug\JOHNBARADAHOT4CardStoreGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\13146\Desktop\Testproject\HOT-2\JOHNBARADAHOT4CardStoreGUI\JOHNBARADAHOT4CardStoreGUI\obj\Debug\JOHNBARADAHOT4CardStoreGUI.frmHome.resources
+C:\Users\13146\Desktop\Testproject\HOT-2\JOHNBARADAHOT4CardStoreGUI\JOHNBARADAHOT4CardStoreGUI\obj\Debug\JOHNBARADAHOT4CardStoreGUI.frmMenu.resources
+C:\Users\13146\Desktop\Testproject\HOT-2\JOHNBARADAHOT4CardStoreGUI\JOHNBARADAHOT4CardStoreGUI\obj\Debug\JOHNBARADAHOT4CardStoreGUI.Properties.Resources.resources
+C:\Users\13146\Desktop\Testproject\HOT-2\JOHNBARADAHOT4CardStoreGUI\JOHNBARADAHOT4CardStoreGUI\obj\Debug\JOHNBARADAHOT4CardStoreGUI.csproj.GenerateResource.cache
+C:\Users\13146\Desktop\Testproject\HOT-2\JOHNBARADAHOT4CardStoreGUI\JOHNBARADAHOT4CardStoreGUI\obj\Debug\JOHNBARADAHOT4CardStoreGUI.csproj.CoreCompileInputs.cache
+C:\Users\13146\Desktop\Testproject\HOT-2\JOHNBARADAHOT4CardStoreGUI\JOHNBARADAHOT4CardStoreGUI\obj\Debug\JOHNBARADAHOT4CardStoreGUI.exe
+C:\Users\13146\Desktop\Testproject\HOT-2\JOHNBARADAHOT4CardStoreGUI\JOHNBARADAHOT4CardStoreGUI\obj\Debug\JOHNBARADAHOT4CardStoreGUI.pdb
